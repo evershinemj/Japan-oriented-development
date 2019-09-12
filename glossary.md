@@ -8,3 +8,5 @@
 ---
 競合（きょうごう）　竞争，争执，conflict
 ---
+実装（じっそう）　implementation
+---
